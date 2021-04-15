@@ -1,13 +1,16 @@
 # COMPSCI-X433.3-Final-Project
-## Project: Voice Analyzing
+## Project: Voice Analysis
 
 ## Participants:  Jialin Li(Cullen), Alexa Huang
 
-## Project Objective: 
+## Project Objective:
+- This project intended to analyze the speech audio files, using the specific packages such as NumPy, Scipy, and Pylab for plotting data to analyze audio file.
+- Throught our learning about the audio data we did Up-Sampling, Down-Sampling to the audio data, and plotting data in Amplitude, Sound level(dB), and the specgram for the audio data.
+
 
 ## Date: 4/8/2021
 ----
-    – what pla`orm/system and Python version you used to run your code
+    – what platform/system and Python version you used to run your code
         - colab or jupyter notebook
     – what packages and dependencies you used
         - numpy, scipy, soundfile, Ipython, seaborn
